@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=67261&api_domain=hackatime.hackclub.com&theme=one_dark_pro&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+
 <a href="https://heatmap.shymike.dev?id=67261&timezone=America%2FSao_Paulo&standalone=true" title="Click to view detailed data for each day!">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=67261&timezone=America%2FSao_Paulo&theme=dark">
